@@ -1,0 +1,8 @@
+http-server:
+  port: 5000
+cbir-component:
+  dimension: 128 
+  feature-files:
+    - features/SIFT_MITV/1.sift
+    - features/SIFT_MITV/16.sift
+  filter-files: 

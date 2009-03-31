@@ -1,0 +1,30 @@
+http-server:
+  port: 5002
+cbir-component:
+  dimension: 3500
+  feature-files:
+    - features/DOG35/images_1.vwhist.3500
+    - features/DOG35/images_2.vwhist.3500
+    - features/DOG35/images_3.vwhist.3500
+    - features/DOG35/images_4.vwhist.3500
+    - features/DOG35/images_5.vwhist.3500
+    - features/DOG35/images_6.vwhist.3500
+    - features/DOG35/images_7.vwhist.3500
+    - features/DOG35/images_8.vwhist.3500
+    - features/DOG35/images_9.vwhist.3500
+    - features/DOG35/images_10.vwhist.3500
+    - features/DOG35/images_11.vwhist.3500
+    - features/DOG35/images_12.vwhist.3500
+    - features/DOG35/images_13.vwhist.3500
+    - features/DOG35/images_14.vwhist.3500
+    - features/DOG35/images_15.vwhist.3500
+    - features/DOG35/images_16.vwhist.3500
+    - features/DOG35/images_17.vwhist.3500
+    - features/DOG35/images_18.vwhist.3500
+    - features/DOG35/images_19.vwhist.3500
+    - features/DOG35/images_20.vwhist.3500
+    - features/DOG35/images_21.vwhist.3500
+    - features/DOG35/images_22.vwhist.3500
+  filter-files:
+    - filters/mm2009_semantic_expan/d_list_fuse_10000_postfix.txt
+  sample-files:

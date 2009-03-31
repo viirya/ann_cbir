@@ -1,0 +1,8 @@
+http-server:
+  port: 5002
+cbir-component:
+  dimension: 225
+  feature-files:
+    - features/GCM/images_1.clm
+  filter-files:
+    - filters/beach.txt

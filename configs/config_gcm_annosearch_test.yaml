@@ -1,0 +1,29 @@
+http-server:
+  port: 5001
+cbir-component:
+  dimension: 225
+  feature-files:
+    - features/GCM/images_1.clm
+    - features/GCM/images_2.clm
+  filter-files:
+    - filters/beach.txt
+    - filters/beer.txt
+    - filters/church.txt
+    - filters/coffee cup.txt
+    - filters/colosseum.txt
+    - filters/eiffel tower.txt
+    - filters/football.txt
+    - filters/golden gate bridge.txt
+    - filters/horse.txt
+    - filters/louvre.txt
+    - filters/oktoberfest.txt
+    - filters/park.txt
+    - filters/pyramid.txt
+    - filters/ramen.txt
+    - filters/snow.txt
+    - filters/spaghetti.txt
+    - filters/starbucks.txt
+    - filters/torre pendente di pisa.txt
+    - filters/tower bridge.txt
+    - filters/triomphe.txt
+    - filters/van gogh painting.txt

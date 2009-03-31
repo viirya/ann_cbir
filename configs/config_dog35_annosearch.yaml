@@ -1,0 +1,69 @@
+http-server:
+  port: 5002
+cbir-component:
+  dimension: 3500
+  feature-files:
+    - features/DOG35/images_1.vwhist.3500
+    - features/DOG35/images_2.vwhist.3500
+    - features/DOG35/images_3.vwhist.3500
+    - features/DOG35/images_4.vwhist.3500
+    - features/DOG35/images_5.vwhist.3500
+    - features/DOG35/images_6.vwhist.3500
+    - features/DOG35/images_7.vwhist.3500
+    - features/DOG35/images_8.vwhist.3500
+    - features/DOG35/images_9.vwhist.3500
+    - features/DOG35/images_10.vwhist.3500
+    - features/DOG35/images_11.vwhist.3500
+    - features/DOG35/images_12.vwhist.3500
+    - features/DOG35/images_13.vwhist.3500
+    - features/DOG35/images_14.vwhist.3500
+    - features/DOG35/images_15.vwhist.3500
+    - features/DOG35/images_16.vwhist.3500
+    - features/DOG35/images_17.vwhist.3500
+    - features/DOG35/images_18.vwhist.3500
+    - features/DOG35/images_19.vwhist.3500
+    - features/DOG35/images_20.vwhist.3500
+    - features/DOG35/images_21.vwhist.3500
+    - features/DOG35/images_22.vwhist.3500
+  filter-files:
+    - filters/beach.txt
+    - filters/beer.txt
+    - filters/church.txt
+    - filters/coffee cup.txt
+    - filters/colosseum.txt
+    - filters/eiffel tower.txt
+    - filters/football.txt
+    - filters/golden gate bridge.txt
+    - filters/horse.txt
+    - filters/louvre.txt
+    - filters/oktoberfest.txt
+    - filters/park.txt
+    - filters/pyramid.txt
+    - filters/snow.txt
+    - filters/spaghetti.txt
+    - filters/starbucks.txt
+    - filters/torre pendente di pisa.txt
+    - filters/tower bridge.txt
+    - filters/triomphe.txt
+    - filters/van gogh painting.txt
+  sample-files:
+    - samples/beach.txt
+    - samples/beer.txt
+    - samples/church.txt
+    - samples/coffee cup.txt
+    - samples/colosseum.txt
+    - samples/eiffel tower.txt
+    - samples/football.txt
+    - samples/golden gate bridge.txt
+    - samples/horse.txt
+    - samples/louvre.txt
+    - samples/oktoberfest.txt
+    - samples/park.txt
+    - samples/pyramid.txt
+    - samples/snow.txt
+    - samples/spaghetti.txt
+    - samples/starbucks.txt
+    - samples/torre pendente di pisa.txt
+    - samples/tower bridge.txt
+    - samples/triomphe.txt
+    - samples/van gogh painting.txt

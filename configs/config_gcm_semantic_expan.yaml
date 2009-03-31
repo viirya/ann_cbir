@@ -1,0 +1,28 @@
+http-server:
+  port: 5001
+cbir-component:
+  dimension: 225
+  feature-files:
+    - features/GCM/images_1.clm
+    - features/GCM/images_2.clm
+    - features/GCM/images_3.clm
+    - features/GCM/images_4.clm
+    - features/GCM/images_5.clm
+    - features/GCM/images_6.clm
+    - features/GCM/images_7.clm
+    - features/GCM/images_8.clm
+    - features/GCM/images_9.clm
+    - features/GCM/images_10.clm
+    - features/GCM/images_11.clm
+    - features/GCM/images_12.clm
+    - features/GCM/images_13.clm
+    - features/GCM/images_14.clm
+    - features/GCM/images_15.clm
+    - features/GCM/images_16.clm
+    - features/GCM/images_17.clm
+    - features/GCM/images_18.clm
+    - features/GCM/images_19.clm
+    - features/GCM/images_20.clm
+  filter-files:
+    - filters/mm2009_semantic_expan/d_list_fuse_10000_postfix.txt
+  sample-files:

@@ -1,0 +1,67 @@
+http-server:
+  port: 5001
+cbir-component:
+  dimension: 225
+  feature-files:
+    - features/GCM/images_1.clm
+    - features/GCM/images_2.clm
+    - features/GCM/images_3.clm
+    - features/GCM/images_4.clm
+    - features/GCM/images_5.clm
+    - features/GCM/images_6.clm
+    - features/GCM/images_7.clm
+    - features/GCM/images_8.clm
+    - features/GCM/images_9.clm
+    - features/GCM/images_10.clm
+    - features/GCM/images_11.clm
+    - features/GCM/images_12.clm
+    - features/GCM/images_13.clm
+    - features/GCM/images_14.clm
+    - features/GCM/images_15.clm
+    - features/GCM/images_16.clm
+    - features/GCM/images_17.clm
+    - features/GCM/images_18.clm
+    - features/GCM/images_19.clm
+    - features/GCM/images_20.clm
+  filter-files:
+    - filters/beach.txt
+    - filters/beer.txt
+    - filters/church.txt
+    - filters/coffee cup.txt
+    - filters/colosseum.txt
+    - filters/eiffel tower.txt
+    - filters/football.txt
+    - filters/golden gate bridge.txt
+    - filters/horse.txt
+    - filters/louvre.txt
+    - filters/oktoberfest.txt
+    - filters/park.txt
+    - filters/pyramid.txt
+    - filters/snow.txt
+    - filters/spaghetti.txt
+    - filters/starbucks.txt
+    - filters/torre pendente di pisa.txt
+    - filters/tower bridge.txt
+    - filters/triomphe.txt
+    - filters/van gogh painting.txt
+  sample-files:
+    - samples/beach.txt
+    - samples/beer.txt
+    - samples/church.txt
+    - samples/coffee cup.txt
+    - samples/colosseum.txt
+    - samples/eiffel tower.txt
+    - samples/football.txt
+    - samples/golden gate bridge.txt
+    - samples/horse.txt
+    - samples/louvre.txt
+    - samples/oktoberfest.txt
+    - samples/park.txt
+    - samples/pyramid.txt
+    - samples/snow.txt
+    - samples/spaghetti.txt
+    - samples/starbucks.txt
+    - samples/torre pendente di pisa.txt
+    - samples/tower bridge.txt
+    - samples/triomphe.txt
+    - samples/van gogh painting.txt

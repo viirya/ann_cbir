@@ -1,0 +1,23 @@
+http-server:
+  port: 5000
+cbir-component:
+  dimension: 128 
+  feature-files:
+    - features/SIFT_MITV/1.sift
+    - features/SIFT_MITV/2.sift
+    - features/SIFT_MITV/3.sift
+    - features/SIFT_MITV/4.sift
+    - features/SIFT_MITV/5.sift
+    - features/SIFT_MITV/6.sift
+    - features/SIFT_MITV/7.sift
+    - features/SIFT_MITV/8.sift
+    - features/SIFT_MITV/9.sift
+    - features/SIFT_MITV/10.sift
+    - features/SIFT_MITV/11.sift
+    - features/SIFT_MITV/12.sift
+    - features/SIFT_MITV/13.sift
+    - features/SIFT_MITV/14.sift
+    - features/SIFT_MITV/15.sift
+    - features/SIFT_MITV/16.sift
+  filter-files: 
+  sample-files:

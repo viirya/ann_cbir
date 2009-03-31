@@ -1,0 +1,30 @@
+http-server:
+  port: 5004
+cbir-component:
+  dimension: 48
+  feature-files:
+    - features/GBR/images_1.gbr
+    - features/GBR/images_2.gbr
+    - features/GBR/images_3.gbr
+    - features/GBR/images_4.gbr
+    - features/GBR/images_5.gbr
+    - features/GBR/images_6.gbr
+    - features/GBR/images_7.gbr
+    - features/GBR/images_8.gbr
+    - features/GBR/images_9.gbr
+    - features/GBR/images_10.gbr
+    - features/GBR/images_11.gbr
+    - features/GBR/images_12.gbr
+    - features/GBR/images_13.gbr
+    - features/GBR/images_14.gbr
+    - features/GBR/images_15.gbr
+    - features/GBR/images_16.gbr
+    - features/GBR/images_17.gbr
+    - features/GBR/images_18.gbr
+    - features/GBR/images_19.gbr
+    - features/GBR/images_20.gbr
+    - features/GBR/images_21.gbr
+    - features/GBR/images_22.gbr
+  filter-files:
+    - filters/mm2009_semantic_expan/d_list_fuse_10000_postfix.txt 
+  sample-files:

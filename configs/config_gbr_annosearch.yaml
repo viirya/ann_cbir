@@ -1,0 +1,69 @@
+http-server:
+  port: 5004
+cbir-component:
+  dimension: 48
+  feature-files:
+    - features/GBR/images_1.gbr
+    - features/GBR/images_2.gbr
+    - features/GBR/images_3.gbr
+    - features/GBR/images_4.gbr
+    - features/GBR/images_5.gbr
+    - features/GBR/images_6.gbr
+    - features/GBR/images_7.gbr
+    - features/GBR/images_8.gbr
+    - features/GBR/images_9.gbr
+    - features/GBR/images_10.gbr
+    - features/GBR/images_11.gbr
+    - features/GBR/images_12.gbr
+    - features/GBR/images_13.gbr
+    - features/GBR/images_14.gbr
+    - features/GBR/images_15.gbr
+    - features/GBR/images_16.gbr
+    - features/GBR/images_17.gbr
+    - features/GBR/images_18.gbr
+    - features/GBR/images_19.gbr
+    - features/GBR/images_20.gbr
+    - features/GBR/images_21.gbr
+    - features/GBR/images_22.gbr
+  filter-files:
+    - filters/beach.txt
+    - filters/beer.txt
+    - filters/church.txt
+    - filters/coffee cup.txt
+    - filters/colosseum.txt
+    - filters/eiffel tower.txt
+    - filters/football.txt
+    - filters/golden gate bridge.txt
+    - filters/horse.txt
+    - filters/louvre.txt
+    - filters/oktoberfest.txt
+    - filters/park.txt
+    - filters/pyramid.txt
+    - filters/snow.txt
+    - filters/spaghetti.txt
+    - filters/starbucks.txt
+    - filters/torre pendente di pisa.txt
+    - filters/tower bridge.txt
+    - filters/triomphe.txt
+    - filters/van gogh painting.txt
+  sample-files:
+    - samples/beach.txt
+    - samples/beer.txt
+    - samples/church.txt
+    - samples/coffee cup.txt
+    - samples/colosseum.txt
+    - samples/eiffel tower.txt
+    - samples/football.txt
+    - samples/golden gate bridge.txt
+    - samples/horse.txt
+    - samples/louvre.txt
+    - samples/oktoberfest.txt
+    - samples/park.txt
+    - samples/pyramid.txt
+    - samples/snow.txt
+    - samples/spaghetti.txt
+    - samples/starbucks.txt
+    - samples/torre pendente di pisa.txt
+    - samples/tower bridge.txt
+    - samples/triomphe.txt
+    - samples/van gogh painting.txt
