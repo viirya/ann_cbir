@@ -1,0 +1,9 @@
+
+ann_cbir is an ANN-based image CBIR server.
+It is built on two libraries:
+
+1. ANN (http://www.cs.umd.edu/~mount/ANN/)
+2. dlib C++ library (http://dclib.sourceforge.net/)
+
+
+
