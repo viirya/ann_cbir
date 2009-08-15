@@ -53,7 +53,7 @@ bool load_config(char* filename, http_server& server_config, cbir_component& cbi
     }
 
   } catch(YAML::Exception& e) {
-    std::cout << "Error at line " << e.line+1 << ", col " << e.column+1 << ": " << e.msg << "\n";
+    std::cout << "Error at line " << e.mark.line+1 << ", col " << e.mark.column+1 << ": " << e.msg << "\n";
     return false;
   }
 
